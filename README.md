@@ -27,3 +27,8 @@ Identify restaurants that match user's proven preferences
 Highlight menu items similar to previously ordered favorites
 
 Assess likelihood of satisfaction based on historical patterns
+
+
+**AI Agent:** https://app.relevanceai.com/agents/bcbe5a/c168c10a-24a0-4cef-9bdc-741e56220d3b/475ed7e9-5ea1-4a64-b47f-085124897972/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd/chat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false&conversationId=new
+
+
